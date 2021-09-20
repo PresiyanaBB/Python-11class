@@ -1,0 +1,13 @@
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.exe
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.deps.json
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.runtimeconfig.json
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.runtimeconfig.dev.json
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.dll
+C:\Users\Go6o\source\repos\Python\python5\bin\Debug\netcoreapp3.1\python5.pdb
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.csprojAssemblyReference.cache
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.AssemblyInfoInputs.cache
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.AssemblyInfo.cs
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.csproj.CoreCompileInputs.cache
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.dll
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.pdb
+C:\Users\Go6o\source\repos\Python\python5\obj\Debug\netcoreapp3.1\python5.genruntimeconfig.cache
