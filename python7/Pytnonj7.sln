@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pytnonj7", "Pytnonj7.pyproj", "{5B2E0843-D7C3-4AD1-AF52-E7A0F857D448}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python8", "..\python8\python8.pyproj", "{1E6B56A7-2F3B-477E-825F-03ECFF73EA4D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kolekcii_upr", "..\kolekcii_upr\kolekcii_upr.pyproj", "{B31E74D7-D2D7-4210-8F7F-E0F4DBA5723F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2E0843-D7C3-4AD1-AF52-E7A0F857D448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2E0843-D7C3-4AD1-AF52-E7A0F857D448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6B56A7-2F3B-477E-825F-03ECFF73EA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6B56A7-2F3B-477E-825F-03ECFF73EA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31E74D7-D2D7-4210-8F7F-E0F4DBA5723F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31E74D7-D2D7-4210-8F7F-E0F4DBA5723F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1134FCE7-59D3-45D1-8D43-4C8134B58393}
+	EndGlobalSection
+EndGlobal
